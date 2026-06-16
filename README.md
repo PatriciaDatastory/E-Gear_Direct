@@ -65,26 +65,25 @@ Product performance was driven by two distinct success models: high-volume produ
 
  <img width="861" height="728" alt="image" src="https://github.com/user-attachments/assets/58b0aadb-0df7-4ccd-b804-67fb18f9bb1d" />
 
-North America and EMEA generated more than 80% of total revenue, while regional revenue shares remained remarkably stable through both the pandemic-driven sales surge and the subsequent market downturn, indicating broadly consistent demand across geographies. 
+North America and EMEA generated more than 80% of total revenue, while regional revenue shares remained remarkably stable throughout both the pandemic-driven sales surge and subsequent downturn, suggesting that market shifts affected regions similarly rather than altering the company's geographic revenue mix.
 
-•	North America and EMEA consistently generated more than 80% of total revenue throughout the four-year period, indicating that the company's core markets remained resilient despite significant fluctuations in overall sales performance.  
-•	EMEA maintained a remarkably stable revenue contribution near 30% annually, providing a dependable secondary market that reduced the company's reliance on a single geography.  
-•	The pandemic-era revenue surge and subsequent downturn affected all regions in relatively similar proportions. Regional revenue shares remained largely unchanged, suggesting that shifts in demand reflected global market conditions rather than region-specific performance changes.  
-•	Although APAC represented only 13% of total revenue, it achieved the highest average order value ($279), indicating stronger spending per transaction than any other region and highlighting potential opportunities for future growth.  
+•	North America and EMEA consistently generated more than 80% of total revenue, making them the primary drivers of overall business performance throughout the analysis period.  
+•	EMEA maintained a stable revenue share of approximately 30% each year, providing a strong secondary market and helping diversify revenue beyond North America.  
+•	Regional revenue shares remained largely unchanged despite dramatic swings in total sales, suggesting that the pandemic-driven surge and subsequent decline reflected broad market conditions rather than region-specific shifts in demand.  
+•	Despite contributing only 13% of total revenue, APAC recorded the highest average order value ($279), indicating stronger customer spend per transaction and potential opportunities for future revenue growth.  
+
 
 ## Loyalty Program
 
  <img width="1125" height="771" alt="image" src="https://github.com/user-attachments/assets/751e6f9d-9d76-465a-ae4f-eb6bb0d76a7f" />
+ <img width="1125" height="706" alt="image" src="https://github.com/user-attachments/assets/17cdb713-0c17-4e30-aeb3-e23bbe363628" />
 
-The loyalty program transformed from a niche initiative into the company's largest revenue segment, with growth driven primarily by rapid customer adoption and supported by steadily improving customer spending behavior.
+The loyalty program transformed from a niche initiative into the company's largest revenue segment, driven primarily by rapid customer adoption and reinforced by steadily improving customer spending behavior. 
 
-•	Loyalty participation expanded dramatically between 2019 and 2021, with member orders increasing nearly tenfold and overtaking non-loyalty purchases.  
-•	Non-loyalty customers initially generated higher average order values, but the gap narrowed each year before reversing in 2022. Loyalty members ultimately spent more per transaction than non-members, suggesting the program strengthened customer engagement and purchasing behavior over time.  
-•	Loyalty revenue growth was driven primarily by rapid membership adoption rather than significant increases in average order value. The nearly tenfold increase in loyalty transactions suggests that expanding customer participation was the primary driver of program success.  
+•	Loyalty participation expanded rapidly between 2019 and 2021, with member orders increasing nearly tenfold and surpassing non-loyalty purchases, demonstrating strong customer adoption of the program.  
+•	Non-loyalty customers initially generated higher average order values, but the gap narrowed each year before reversing in 2022. By the end of the period, loyalty members spent more per transaction than non-members, suggesting stronger engagement and purchasing behavior among program participants.  
+•	The loyalty program grew from 11% of total revenue in 2019 to 55% in 2022, transforming from a minor contributor into the company's largest revenue segment and a critical driver of business performance.
 
-<img width="1125" height="706" alt="image" src="https://github.com/user-attachments/assets/17cdb713-0c17-4e30-aeb3-e23bbe363628" />
- 
-•	The loyalty program evolved from a small contributor generating 11% of revenue in 2019 to the company's largest revenue segment by 2022, accounting for 55% of total sales. This shift indicates growing customer adoption and increasing dependence on loyalty members for revenue generation.  
 
 ## Refunds (Apple Products)
 
@@ -96,10 +95,10 @@ The loyalty program transformed from a niche initiative into the company's large
 
 Apple product refund rates improved dramatically over the four-year period, with all products reaching 0% refund rates by 2022. While MacBook Air carried the highest refund risk, AirPods generated the majority of refund activity due to their significantly higher sales volume.  
 
-•	Refund rates declined steadily across all Apple products between 2019 and 2022, with MacBook Air, iPhone, and AirPods all reaching 0% by 2022. This suggests significant improvements in product quality, customer satisfaction, fulfillment processes, or return management practices.  
-•	MacBook Air exhibited the highest refund rate among Apple products, indicating that premium, high-value purchases were more susceptible to returns than lower-priced consumer electronics. This suggests that customer expectations and purchase complexity may have influenced refund behavior.  
-•	While MacBook Air experienced the highest refund rate, AirPods accounted for approximately 85% of all Apple product refunds due to their dominant share of total sales volume. This highlights the difference between refund frequency and refund impact.  
-•	Refund timing was remarkably consistent across all Apple products, averaging approximately two years from purchase to refund. The narrow range across products suggests that refund activity may have been influenced by a shared operational, warranty, or data-recording process rather than product-specific performance issues.  
+•	Refund rates declined steadily across all Apple products between 2019 and 2022, with MacBook Air, iPhone, and AirPods all reaching 0% by 2022. This trend suggests improvements in one or more areas, including product quality, customer satisfaction, fulfillment processes, or return management practices.
+•	MacBook Air exhibited the highest refund rate among Apple products, suggesting that premium, high-value purchases were more susceptible to returns than lower-priced consumer electronics. Higher customer expectations and greater purchase complexity may have contributed to this pattern.
+•	While MacBook Air experienced the highest refund rate, AirPods accounted for approximately 85% of all Apple product refunds due to their significantly higher sales volume. This highlights the important distinction between refund rate and total refund impact.
+•	Refund timing was remarkably consistent across all Apple products, averaging approximately two years from purchase to refund. The limited variation across products suggests that factors beyond product type may have influenced refund timing, although additional operational data would be required to determine the underlying cause.
 
 # Business Impact & Recommendations
 
