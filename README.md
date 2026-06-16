@@ -57,7 +57,7 @@ The company generated more than $28M in revenue across 108K orders from 2019 to 
 *	**Loyalty program:** Loyalty customers grew from 11% of revenue in 2019 to 55% in 2022, surpassing non-loyalty customers in 2021 and becoming the company's largest revenue segment.  
 *	**Apple refunds:** Refund rates declined consistently year over year, falling from as high as 18% in 2019 to 0% in 2022, reducing revenue lost through returns and indicating improved post-purchase outcomes.  
 
-## Product
+## Product Performance
 
  <img width="1125" height="676" alt="image" src="https://github.com/user-attachments/assets/56de961f-01de-48bb-909b-21df167adff0" />
 
@@ -67,7 +67,7 @@ Product performance was driven by two distinct success models: high-volume produ
 *	Premium laptops generated substantial revenue despite relatively low sales volumes. For example, the MacBook Air generated nearly as much revenue as AirPods while selling less than one-tenth as many units, highlighting the impact of high average order values. 
 *	AirPods uniquely combined exceptional demand with strong revenue generation, making them the most balanced product in the portfolio and a key contributor to both sales volume and overall revenue.
 
-## Region
+## Regional Performance
 
  <img width="861" height="728" alt="image" src="https://github.com/user-attachments/assets/58b0aadb-0df7-4ccd-b804-67fb18f9bb1d" />
 
@@ -115,10 +115,9 @@ The analysis identified four key opportunities to improve revenue growth, custom
 
 ## Expand and Optimize the Loyalty Program
 
-![High Priority](https://img.shields.io/badge/Priority-High-red)
-
-👤 **Owner:** Marketing / CRM  
-📅 **Timeline:** Next 6 Months
+**Priority:** High  
+**Owner:** Marketing / CRM  
+**Timeline:** Next 6 Months
 
 ### Action
 Expand loyalty program adoption and engagement through targeted acquisition, retention, and personalization strategies.
@@ -130,10 +129,9 @@ Loyalty revenue grew from **11% to 55%** of total sales, while loyalty order vol
 
 ## Prioritize Premium Product Marketing
 
-![High Priority](https://img.shields.io/badge/Priority-High-red)
-
-👤 **Owner:** Product Management / Sales  
-📅 **Timeline:** Next 6 Months
+**Priority:** High  
+**Owner:** Product Management / Sales  
+**Timeline:** Next 6 Months  
 
 ### Action
 Focus marketing spend, inventory planning, and promotional efforts on high-revenue products such as monitors and laptops while using accessories to drive customer acquisition.
@@ -145,10 +143,9 @@ Monitors and laptops generated the majority of company revenue despite lower sal
 
 ## Expand Growth in APAC and LATAM
 
-![Medium Priority](https://img.shields.io/badge/Priority-Medium-yellow)
-
-👤 **Owner:** Regional Sales / Marketing  
-📅 **Timeline:** 6–12 Months
+**Priority:** Medium  
+**Owner:** Regional Sales / Marketing  
+**Timeline:** 6–12 Months  
 
 ### Action
 Expand market penetration in APAC and LATAM through targeted regional marketing, localized offerings, and expanded product availability.
@@ -160,10 +157,9 @@ APAC generated the highest average order value (**$279**) yet represented only *
 
 ## Maintain Refund Monitoring for Premium Products
 
-![Low Priority](https://img.shields.io/badge/Priority-Low-green)
-
-👤 **Owner:** Operations / Product Quality  
-📅 **Timeline:** Ongoing
+**Priority:** Low  
+**Owner:** Operations / Product Quality  
+**Timeline:** Ongoing  
 
 ### Action
 Monitor refund trends and customer feedback for high-ticket products to identify emerging quality or fulfillment issues before they impact profitability.
@@ -182,7 +178,7 @@ MacBook Air experienced the highest refund rate (**11%**) among Apple products. 
 | 🟡 Medium | Expand Growth in APAC and LATAM | Regional Sales / Marketing | 6–12 Months |
 | 🟢 Low | Maintain Refund Monitoring for Premium Products | Operations / Product Quality | Ongoing |
 
-These recommendations focus on strengthening customer loyalty, maximizing revenue from premium products, expanding growth opportunities in emerging markets, and maintaining operational excellence through proactive refund monitoring.
+These recommendations focus on strengthening customer loyalty, maximizing revenue from premium products, capitalising on untapped demand within established regional markets, and maintaining operational excellence through proactive refund monitoring.
 
 
 
