@@ -23,15 +23,17 @@ Analyze four years of transactional sales data to:
 
 # Executive Summary
 
- <img width="1125" height="583" alt="image" src="https://github.com/user-attachments/assets/da80e0ef-4021-42dd-b881-2672fdc799b9" />
+ <img width="1125" height="605" alt="image" src="https://github.com/user-attachments/assets/134f37a6-85ca-44f3-a4b0-269690fe7f20" />
 
-The business generated $28+M in total revenue across 108K orders, with an average order value (AOV) of $260. Sales accelerated sharply during 2020, stabilized in 2021, and contracted significantly in 2022. 
 
-•	Pandemic-driven demand made 2020 an outlier year. Monthly revenue spiked to $1.25M in December 2020, far above typical performance, making it an unreliable benchmark for evaluating long term trends.  
-•	2022 performance signals a return to pre‑pandemic demand levels. Marking the bottom of the post-2020 downturn, October 2022 revenue fell to $178K, an 86% drop from the December 2020 peak and 46% below the pre-pandemic monthly baseline.  
-•	North America and EMEA accounted for more than four-fifths of total revenue each year, driving record growth in 2020 and absorbing the majority of the subsequent decline through 2022.  
-•	Loyalty customers increased their contribution from just 11% of revenue in 2019 to 55% by 2022, becoming the majority source of company revenue between the two segments.  
-•	Refund rates across Apple products declined from as high as 18% in 2019 to 0% by 2022, reducing return-related revenue losses.  
+The company generated more than $28M in revenue across 108K orders from 2019 to 2022. While pandemic-driven demand fueled record sales in 2020 and sustained strong performance in 2021, the business experienced a significant slowdown in 2022, highlighting the challenge of maintaining growth after extraordinary market conditions subsided. Understanding which products, regions, and customer segments drove performance throughout these shifts was a key objective of this analysis.
+
+•	A pandemic-driven spike pushed December 2020 revenue to an exceptional $1.25M. This unsustainable surge represents a market anomaly, not a dependable benchmark for assessing future business trends.  
+•	By late 2022, revenue had fallen below pre-pandemic levels. Monthly revenue declined to $178K in October 2022, an 86% drop from the December 2020 peak and 46% below the pre-pandemic monthly baseline, indicating a significant contraction in demand following the pandemic-driven surge.  
+•	Revenue performance was concentrated in North America and EMEA. Together, these regions generated more than 80% of annual revenue, making them the primary contributors to overall company performance throughout the period.  
+•	The loyalty program evolved into a major revenue driver. Loyalty customers increased their revenue contribution from 11% in 2019 to 55% in 2022, shifting from a secondary customer segment to the company's largest source of revenue.  
+•	Apple product refunds improved significantly over time. Refund rates fell from as high as 18% in 2019 to 0% by 2022, strengthening revenue retention and indicating improvements in product performance, customer satisfaction, or fulfillment processes.  
+ 
 
 ## Recommendations
 
@@ -41,23 +43,23 @@ The business generated $28+M in total revenue across 108K orders, with an averag
 
 <img width="1129" height="712" alt="image" src="https://github.com/user-attachments/assets/5b72340d-5f19-4954-be50-ae880c01b290" />
 
-•	Pandemic surge: 2020 sales grew +163% (peaking at $1.25M in December 2020), driven by higher order volume and higher AOV.  
-•	Normalization: 2021 saw a noticeable decline in average order value (-15%) and revenue (-10%) but remained well above the pre-pandemic monthly baseline of $320K average revenue.  
-•	Contraction: Demand normalized in 2022. Revenue fell by 46% from the previous year, with order counts declining sharply by 40%. Average order value also experienced a moderate 10% drop.  
-•	Product mix: Revenue was driven by premium products, with monitors and laptops contributing 68% of sales dollars, while accessories generated the majority of demand, representing 65% of total sales volume.  
-•	Revenue by region: While company revenue experienced substantial growth during the pandemic and contraction afterward, the regional revenue mix remained largely unchanged, with North America contributing roughly half of revenue and EMEA nearly one-third throughout the period.  
-•	Loyalty program: By 2021, loyalty purchases exceeded non-loyalty purchases and remained the dominant source of revenue between the two segments.  
-•	Refunds (Apple products): Apple product refund rates fell consistently year over year, reaching 0% in 2022, indicating stronger sales quality and fewer post-purchase issues.  
+•	**Pandemic surge:** Revenue grew 163% in 2020, peaking at $1.25M in December, driven by both higher order volume and increased average order value.  
+•	**Post-surge adjustment:** In 2021, revenue declined 10% and average order value fell 15%, but performance remained well above the pre-pandemic monthly average of approximately $320K.   
+•	**Contraction:** Revenue fell 46% in 2022 as order volume declined 40% and average order value decreased 10%, pushing sales below pre-pandemic levels.  
+•	**Product mix:** Premium products (monitors and laptops) generated 68% of revenue, while accessories (charging cables and webcams) accounted for 65% of total units sold, highlighting the difference between revenue drivers and volume drivers.  
+•	**Regional performance:** Despite significant swings in overall revenue, the regional revenue mix remained remarkably stable, with North America contributing roughly half of annual revenue and EMEA nearly one-third throughout the period.  
+•	**Loyalty program:** Loyalty customers grew from 11% of revenue in 2019 to 55% in 2022, surpassing non-loyalty customers in 2021 and becoming the company's largest revenue segment.  
+•	**Apple refunds:** Refund rates declined consistently year over year, falling from as high as 18% in 2019 to 0% in 2022, reducing revenue lost through returns and indicating improved post-purchase outcomes.  
 
 ## Product
 
  <img width="1125" height="676" alt="image" src="https://github.com/user-attachments/assets/56de961f-01de-48bb-909b-21df167adff0" />
 
-Product success depended on balancing demand and value rather than maximizing either metric alone. AirPods achieved exceptional results through high demand, while the 27" 4K Monitor and premium laptops generated strong revenue through higher average order values.  
+Product performance was driven by two distinct success models: high-volume products generated revenue through demand, while premium products generated revenue through higher average order values. The strongest performers effectively leveraged one or both of these advantages.
 
-•	Although Apple AirPods generated the highest order volume, the 27" 4K Gaming Monitor was the company's largest revenue contributor. This demonstrates that revenue performance was influenced more by product value than by sales volume alone.  
-•	Premium laptops followed a different growth model than high-volume accessories, generating substantial revenue from relatively few transactions. Their high average order values allowed them to outperform many higher-volume products.  
-•	AirPods were the only product to combine exceptionally high demand with above-average revenue generation, making them one of the most balanced and strategically important products in the portfolio.  
+•	Despite generating fewer orders than AirPods, the 27" 4K Gaming Monitor produced the highest total revenue, demonstrating that product value can outweigh sales volume as a driver of financial performance.  
+•	Premium laptops generated substantial revenue despite relatively low sales volumes. For example, the MacBook Air generated nearly as much revenue as AirPods while selling less than one-tenth as many units, highlighting the impact of high average order values. 
+•	AirPods uniquely combined exceptional demand with strong revenue generation, making them the most balanced product in the portfolio and a key contributor to both sales volume and overall revenue.
 
 ## Region
 
