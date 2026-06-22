@@ -49,7 +49,7 @@ The company generated more than $28M in revenue across 108K orders with $260 AOV
 * **Apple product refunds improved significantly over time.** Refund rates fell from as high as 18% in 2019 to 0% by 2022, strengthening revenue retention and indicating improvements in product performance, customer satisfaction, or fulfillment processes.  
  
 
-## Strategic Recommendations
+## Recommendations
 
 * **[High Priority]** **Marketing / CRM**: Expand and optimize the loyalty program to increase enrollment and retention through personalized offers.
 * **[High Priority]** **Product Management / Sales**: Prioritize premium product marketing, focusing spend, inventory planning, and promotional efforts on high-revenue items.
