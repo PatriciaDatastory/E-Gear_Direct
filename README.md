@@ -90,7 +90,8 @@ Product performance was driven by two distinct success models: high-volume produ
 ## Regional Performance
 
 
- <img width="1262" height="217" alt="Screenshot (1209)" src="https://github.com/user-attachments/assets/787b465b-6b31-457b-8d75-88bb83df96f7" />
+ <img width="1126" height="202" alt="Screenshot (1224)" src="https://github.com/user-attachments/assets/674a6d9c-df58-4aca-9074-f27a4d73bbe5" />
+
  <img width="1211" height="799" alt="Screenshot (1208)" src="https://github.com/user-attachments/assets/9e0ff329-e94e-4849-8396-bc9b0f19d86c" />
 
 
@@ -105,7 +106,9 @@ North America and EMEA generated more than 80% of total revenue, while regional 
 ## Loyalty Program
 
 
-<img width="1127" height="787" alt="Screenshot (1210)" src="https://github.com/user-attachments/assets/5f5ce503-b6cb-4034-a9ac-1fa491b4cfa7" />
+ <img width="975" height="401" alt="Screenshot (1222)" src="https://github.com/user-attachments/assets/bf79a961-2503-4835-b955-940c3ba8d965" />
+
+
 <img width="1257" height="792" alt="Screenshot (1212)" src="https://github.com/user-attachments/assets/f53a4b66-d835-46f1-b557-1a5c96f793bb" />
 
 
@@ -119,7 +122,7 @@ The loyalty program transformed from a niche initiative into the company's large
 ## Refunds (Apple Products)
 
 
-<img width="1196" height="443" alt="Screenshot (1216)" src="https://github.com/user-attachments/assets/d304b570-1121-4bf9-9082-a20d4c0f4add" />
+<img width="1409" height="248" alt="Screenshot (1223)" src="https://github.com/user-attachments/assets/6b796610-724e-4b57-a0a9-a1554eb7e83e" />
 
 
 <img width="1413" height="618" alt="Screenshot (1214)" src="https://github.com/user-attachments/assets/43443251-60b6-4eb1-8aaf-dc2bcd71ac55" />
