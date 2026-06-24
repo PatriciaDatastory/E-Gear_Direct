@@ -3,20 +3,9 @@
 
  <img width="1125" height="614" alt="image" src="https://github.com/user-attachments/assets/eb4cbc29-f329-4ad2-9fe9-0169f479123b" />
 
-
-## Table of Contents
-* [Project Overview](#project-overview)
-* [Executive Summary](#executive-summary)
-* [Deep-Dive Analysis](#deep-dive-analysis)
-  * [Sales Trends](#sales-trends)
-  * [Product Performance](#product-performance)
-  * [Regional Performance](#regional-performance)
-  * [Loyalty Program](#loyalty-program)
-  * [Refunds (Apple Products)](#refunds-apple-products)
-* [Strategic Recommendations](#strategic-recommendations)
   
 # Project Overview
-E-Gear Direct, a global e-commerce retailer, experienced significant fluctuations in sales performance between 2019 and 2022 due to pandemic-driven demand shifts, changing customer purchasing behavior, and evolving product performance. Leadership needed to understand what drove revenue growth and decline, which products and regions contributed most to business performance, whether the loyalty program generated measurable value, and whether Apple product refund rates required intervention.
+E-Gear Direct is a global e-commerce retailer managing eight diverse product categories across North America, EMEA, APAC, and LATAM. The business experienced significant fluctuations in sales performance between 2019 and 2022 due to pandemic-driven demand shifts, changing customer purchasing behavior, and evolving product performance. Leadership needed to understand what drove revenue growth and decline, which products and regions contributed most to business performance, whether the loyalty program generated measurable value, and whether Apple product refund rates required intervention.
 
 ## Business Objective
 Analyze four years of transactional sales data to:  
@@ -26,17 +15,12 @@ Analyze four years of transactional sales data to:
 *	Analyze refund rates for Apple products  
 *	Deliver actionable insights and recommendations to support leadership decision-making  
 
-## Dataset
-*	108,000+ customer orders  
-*	$28M+ in total revenue  
-*	8 product categories  
-*	4 global regions (North America, EMEA, APAC, LATAM)  
-*	2019–2022 transaction history  
-*	Loyalty and non-loyalty customer segments  
 
 # Executive Summary
 
-<img width="1164" height="562" alt="image" src="https://github.com/user-attachments/assets/52c96ae2-0be2-408d-9a90-2f48a22b7fb6" />
+
+<img width="1423" height="752" alt="Screenshot (1239)" src="https://github.com/user-attachments/assets/a13d292d-85e7-4159-9f13-964d2075c050" />
+
 
 The company generated more than $28M in revenue across 108K orders with $260 AOV from 2019 to 2022. While pandemic-driven demand fueled record sales in 2020 and sustained strong performance in 2021, the business experienced a significant slowdown in 2022, highlighting the challenge of maintaining growth after extraordinary market conditions subsided. Understanding which products, regions, and customer segments drove performance throughout these shifts was a key objective of this analysis.
 
@@ -46,15 +30,15 @@ The company generated more than $28M in revenue across 108K orders with $260 AOV
 * **By late 2022, revenue had fallen below pre-pandemic levels.** Monthly revenue declined to $178K in October 2022. This is an 86% drop from the December 2020 peak and sits 46% below the pre-pandemic monthly baseline. These figures indicate a significant contraction in demand following the pandemic-driven surge. 
 * **Revenue performance was concentrated in North America and EMEA.** Together, these regions generated more than 80% of annual revenue, making them the primary contributors to overall company performance throughout the period.  
 * **The loyalty program evolved into a major revenue driver.** Loyalty customers increased their revenue contribution from 11% in 2019 to 55% in 2022, shifting from a secondary customer segment to the company's largest source of revenue.  
-* **Apple product refunds improved significantly over time.** Refund rates fell from as high as 18% in 2019 to 0% by 2022, strengthening revenue retention and indicating improvements in product performance, customer satisfaction, or fulfillment processes.  
+* **Apple refund analysis revealed both financial and operational risks.** MacBook Air generated significant refund losses due to its premium price point, while AirPods produced comparable losses through substantially higher refund volumes. Refunds were issued an average of 733 days after purchase across all products, indicating a potentially significant operational process or data-quality issue requiring further validation. Refund trends beyond 2020 were excluded from performance conclusions due to incomplete refund data.
  
 
 ## Recommendations
 
-* **[High Priority]** **Marketing / CRM**: Expand and optimize the loyalty program to increase enrollment and retention through personalized offers.
-* **[High Priority]** **Product Management / Sales**: Prioritize premium product marketing, focusing spend, inventory planning, and promotional efforts on high-revenue items.
-* **[Medium Priority]** **Regional Sales / Marketing**: Diversify regional revenue to drive growth across APAC and LATAM by scaling targeted campaigns and improving regional product availability.
-* **[Low Priority]** **Operations / Product Quality**: Maintain refund monitoring for premium products to proactively track customer experience indicators.
+* **Expand loyalty program adoption and engagement** to build on its transformation into the company's largest revenue segment.
+* **Prioritize high-revenue product categories** by focusing investment on monitors and laptops while using accessories to drive customer acquisition.
+* **Accelerate APAC expansion efforts** to capitalize on the region's industry-leading average order value and untapped growth potential.
+* **Validate refund reporting and investigate refund drivers** to improve decision-making and reduce refund-related revenue exposure.
 
 
 # Deep-Dive Analysis
@@ -62,7 +46,7 @@ The company generated more than $28M in revenue across 108K orders with $260 AOV
 ## Sales Trends
 
 
-<img width="1418" height="708" alt="Screenshot (1206)" src="https://github.com/user-attachments/assets/151db7f1-8785-4ab1-a90f-ad18a8338c0f" />
+<img width="1422" height="743" alt="Screenshot (1240)" src="https://github.com/user-attachments/assets/02e41c7c-4498-42f4-9f50-90bda55fe2fe" />
 
 
 *	**Pandemic surge:** Revenue grew 163% in 2020, peaking at $1.25M in December, driven by both higher order volume and increased average order value.  
@@ -77,138 +61,77 @@ The company generated more than $28M in revenue across 108K orders with $260 AOV
 ## Product Performance
 
 
- <img width="1317" height="791" alt="Screenshot (1207)" src="https://github.com/user-attachments/assets/bdfafcd1-daf0-4996-99f7-92372c36c849" />
+ <img width="1364" height="804" alt="Screenshot (1241)" src="https://github.com/user-attachments/assets/b881be32-74c9-4fce-88e4-6ce96928298e" />
 
 
 Product performance was driven by two distinct success models: high-volume products generated revenue through demand, while premium products generated revenue through higher average order values. The strongest performers effectively leveraged one or both of these advantages.
 
-*	Despite generating fewer orders than AirPods, the 27" 4K Gaming Monitor produced the highest total revenue, demonstrating that product value can outweigh sales volume as a driver of financial performance.  
-*	Premium laptops generated substantial revenue despite relatively low sales volumes. For example, the MacBook Air generated nearly as much revenue as AirPods while selling less than one-tenth as many units, highlighting the impact of high average order values. 
-*	AirPods uniquely combined exceptional demand with strong revenue generation, making them the most balanced product in the portfolio and a key contributor to both sales volume and overall revenue.
-
+*	**Despite generating fewer orders than AirPods, the 27" 4K Gaming Monitor produced the highest total revenue,** demonstrating that product value can outweigh sales volume as a driver of financial performance.  
+*	**AirPods uniquely combined exceptional demand with strong revenue generation,** making them the most balanced product in the portfolio and a key contributor to both sales volume and overall revenue.
+* **Premium laptops generated substantial revenue despite relatively low sales volumes.** Although AirPods outpaced the MacBook Air in order volume by 12 to 1, the MacBook generated nearly as much total revenue. This discrepancy illustrates the significant impact of high average order values. Driven by this dynamic, the premium laptop category, consisting of the MacBook Air and ThinkPad, secured $9.5M in revenue across fewer than 7K total orders.
 
 ## Regional Performance
 
 
- <img width="1126" height="202" alt="Screenshot (1224)" src="https://github.com/user-attachments/assets/674a6d9c-df58-4aca-9074-f27a4d73bbe5" />
+<img width="1376" height="224" alt="Screenshot (1244)" src="https://github.com/user-attachments/assets/b2a5a6f9-ba70-41ae-9341-992ba963c3aa" />
 
- <img width="1211" height="799" alt="Screenshot (1208)" src="https://github.com/user-attachments/assets/9e0ff329-e94e-4849-8396-bc9b0f19d86c" />
+
+ <img width="1417" height="802" alt="Screenshot (1243)" src="https://github.com/user-attachments/assets/e93c2a5e-dba0-456d-b450-30e13760cdb6" />
 
 
 North America and EMEA generated more than 80% of total revenue, while regional revenue shares remained remarkably stable throughout both the pandemic-driven sales surge and subsequent downturn, suggesting that market shifts affected regions similarly rather than altering the company's geographic revenue mix.
 
-*	North America and EMEA consistently generated more than 80% of total revenue, making them the primary drivers of overall business performance throughout the analysis period.
-*	EMEA maintained a stable revenue share of approximately 30% each year, providing a strong secondary market and helping diversify revenue beyond North America.  
-*	Regional revenue shares remained largely unchanged despite dramatic swings in total sales, suggesting that the pandemic-driven surge and subsequent decline reflected broad market conditions rather than region-specific shifts in demand.  
-*	Despite contributing only 13% of total revenue, APAC recorded the highest average order value ($279), indicating stronger customer spend per transaction and potential opportunities for future revenue growth.  
+*	**North America and EMEA consistently generated more than 80% of total revenue,** making them the primary drivers of overall business performance throughout the analysis period.
+*	**EMEA maintained a stable revenue share of approximately 30% each year,** providing a strong secondary market and helping diversify revenue beyond North America.  
+*	**Regional revenue shares remained largely unchanged despite dramatic swings in total sales,** suggesting that the pandemic-driven surge and subsequent decline reflected broad market conditions rather than region-specific shifts in demand.  
+*	**Despite contributing only 13% of total revenue, APAC recorded the highest average order value ($279),** indicating stronger customer spend per transaction and potential opportunities for future revenue growth.  
 
 
 ## Loyalty Program
 
 
- <img width="975" height="401" alt="Screenshot (1222)" src="https://github.com/user-attachments/assets/bf79a961-2503-4835-b955-940c3ba8d965" />
+ <img width="1405" height="660" alt="Screenshot (1245)" src="https://github.com/user-attachments/assets/befcdc11-c210-412e-a842-e8dd170868df" />
 
 
-<img width="1257" height="792" alt="Screenshot (1212)" src="https://github.com/user-attachments/assets/f53a4b66-d835-46f1-b557-1a5c96f793bb" />
+<img width="1330" height="795" alt="Screenshot (1246)" src="https://github.com/user-attachments/assets/c3b1cb54-75df-4945-924d-0bc473ccecee" />
 
 
 The loyalty program transformed from a niche initiative into the company's largest revenue segment, driven primarily by rapid customer adoption and reinforced by steadily improving customer spending behavior. 
 
-*	Loyalty participation expanded rapidly between 2019 and 2021, with member orders increasing nearly tenfold and surpassing non-loyalty purchases, demonstrating strong customer adoption of the program.  
-*	Non-loyalty customers initially generated higher average order values, but the gap narrowed each year before reversing in 2022. By the end of the period, loyalty members spent more per transaction than non-members, suggesting stronger engagement and purchasing behavior among program participants.  
-*	The loyalty program grew from 11% of total revenue in 2019 to 55% in 2022, transforming from a minor contributor into the company's largest revenue segment and a critical driver of business performance.
+*	**Loyalty participation expanded rapidly between 2019 and 2021,** with member orders increasing nearly tenfold and surpassing non-loyalty purchases, demonstrating strong customer adoption of the program.  
+*	**Non-loyalty customers initially generated higher average order values,** but the gap narrowed each year before reversing in 2022. By the end of the period, loyalty members spent more per transaction than non-members, suggesting stronger engagement and purchasing behavior among program participants.  
+*	**The loyalty program grew from 11% of total revenue in 2019 to 55% in 2022,** transforming from a minor contributor into the company's largest revenue segment and a critical driver of business performance.
 
 
 ## Refunds (Apple Products)
 
 
-<img width="1409" height="248" alt="Screenshot (1223)" src="https://github.com/user-attachments/assets/6b796610-724e-4b57-a0a9-a1554eb7e83e" />
+<img width="1414" height="259" alt="Screenshot (1249)" src="https://github.com/user-attachments/assets/e454093d-e9ea-4728-8735-0d077a3b16b0" />
+
+<img width="843" height="668" alt="Screenshot (1250)" src="https://github.com/user-attachments/assets/8cab9f72-e4f9-4683-96b3-03d521587b9a" />
 
 
-<img width="1413" height="618" alt="Screenshot (1214)" src="https://github.com/user-attachments/assets/43443251-60b6-4eb1-8aaf-dc2bcd71ac55" />
+Apple refund analysis revealed two distinct sources of refund-related revenue exposure. MacBook Air generated substantial refund losses due to its high transaction value, while AirPods produced comparable losses through significantly higher refund volumes. Additionally, refund timing remained remarkably consistent across products, averaging approximately two years from purchase to refund.
 
+* **MacBook Air exhibited the highest refund risk among Apple products.** MacBook Air maintained the highest refund rates through 2021, reaching 18% in 2019 and 17% in 2020.
+* **AirPods generated the majority of refund transactions despite maintaining the lowest refund rate.** Their significantly higher sales volume outweighed their lower refund risk, demonstrating the importance of evaluating both refund frequency and sales volume when assessing product performance.
+* **MacBook Air and AirPods generated comparable refund-related revenue losses through different drivers.** MacBook Air's financial impact was driven by its premium price point, while AirPods' impact stemmed from substantially higher refund volumes.
+* **Refund timing was highly consistent across all Apple products, averaging approximately 733 days from purchase to refund.** This unusual two-year pattern is currently undergoing data validation to determine whether it reflects extended warranty cycles, operational processes, or a systemic logging anomaly.
+---
+**Data Consideration**
 
-Apple product refund rates improved dramatically over the four-year period, with all products reaching 0% refund rates by 2022. While MacBook Air carried the highest refund risk, AirPods generated the majority of refund activity due to their significantly higher sales volume.  
+**Refund data for 2022 is known to be incomplete, and refund activity for 2021 may be partially underrepresented.** Combined with the approximately 733-day average period between purchase and refund, this limits visibility into later-year refund outcomes. Consequently, refund trends beyond 2020 were excluded from performance conclusions and should be interpreted with caution.
 
-*	Refund rates declined steadily across all Apple products between 2019 and 2022, with MacBook Air, iPhone, and AirPods all reaching 0% by 2022. This trend suggests improvements in one or more areas, including product quality, customer satisfaction, fulfillment processes, or return management practices.
-*	MacBook Air exhibited the highest refund rate among Apple products, suggesting that premium, high-value purchases were more susceptible to returns than lower-priced consumer electronics. Higher customer expectations and greater purchase complexity may have contributed to this pattern.
-*	While MacBook Air experienced the highest refund rate, AirPods accounted for approximately 85% of all Apple product refunds due to their significantly higher sales volume. This highlights the important distinction between refund rate and total refund impact.
-*	Refund timing was remarkably consistent across all Apple products, averaging approximately two years from purchase to refund. The limited variation across products suggests that factors beyond product type may have influenced refund timing, although additional operational data would be required to determine the underlying cause.
-
-
-# Strategic Recommendations
-
+---
+## Recommendations
 The analysis identified four key opportunities to improve revenue growth, customer retention, and long-term business resilience. The following recommendations are aligned with the findings from the product, regional, loyalty, and refund analyses.
-
----
-
-## Expand and Optimize the Loyalty Program
-
-**Priority:** High  
-**Owner:** Marketing / CRM  
-**Timeline:** Next 6 Months
-
-### Action
-Expand loyalty program adoption and engagement through targeted acquisition, retention, and personalization strategies.
-
-### Supporting Insight
-Loyalty revenue grew from **11% to 55%** of total sales, while loyalty order volume increased from approximately **2,000 to 20,000 orders**. By 2022, loyalty customers also surpassed non-members in average order value.
-
----
-
-## Prioritize Premium Product Marketing
-
-**Priority:** High  
-**Owner:** Product Management / Sales  
-**Timeline:** Next 6 Months  
-
-### Action
-Focus marketing spend, inventory planning, and promotional efforts on high-revenue products such as monitors and laptops while using accessories to drive customer acquisition.
-
-### Supporting Insight
-Monitors and laptops generated the majority of company revenue despite lower sales volumes. Premium products consistently delivered stronger revenue per transaction due to their significantly higher average order values.
-
----
-
-## Expand Growth in APAC and LATAM
-
-**Priority:** Medium  
-**Owner:** Regional Sales / Marketing  
-**Timeline:** 6–12 Months  
-
-### Action
-Expand market penetration in APAC and LATAM through targeted regional marketing, localized offerings, and expanded product availability.
-
-### Supporting Insight
-APAC generated the highest average order value (**$279**) yet represented only **13% of total revenue**, while North America and EMEA accounted for more than **80% of revenue** throughout the analysis period.
-
----
-
-## Maintain Refund Monitoring for Premium Products
-
-**Priority:** Low  
-**Owner:** Operations / Product Quality  
-**Timeline:** Ongoing  
-
-### Action
-Monitor refund trends and customer feedback for high-ticket products to identify emerging quality or fulfillment issues before they impact profitability.
-
-### Supporting Insight
-MacBook Air experienced the highest refund rate (**11%**) among Apple products. Although refund rates improved to **0% across all Apple products by 2022**, continued monitoring will help sustain those gains.
-
----
-
-## Recommendation Summary
 
 | Priority | Recommendation | Owner | Timeline |
 |-----------|-----------|-----------|-----------|
-| 🔴 High | Expand and Optimize the Loyalty Program | Marketing / CRM | Next 6 Months |
-| 🔴 High | Prioritize Premium Product Marketing | Product Management / Sales | Next 6 Months |
-| 🟡 Medium | Expand Growth in APAC and LATAM | Regional Sales / Marketing | 6–12 Months |
-| 🟢 Low | Maintain Refund Monitoring for Premium Products | Operations / Product Quality | Ongoing |
-
-These recommendations focus on strengthening customer loyalty, maximizing revenue from premium products, capitalising on untapped demand within established regional markets, and maintaining operational excellence through proactive refund monitoring.
-
+| 🔴 High | Expand loyalty program adoption and engagement through targeted acquisition, retention, and personalization strategies.| Marketing / CRM | Next 6 Months |
+| 🔴 High | Focus marketing spend, inventory planning, and promotional efforts on high-revenue products such as monitors and laptops while using accessories to drive customer acquisition. | Product Management / Marketing | Next 6 Months |
+| 🟡 Medium  | Prioritize customer acquisition and market expansion in APAC while evaluating targeted growth opportunities in LATAM through regional marketing, localized offerings, and expanded product availability. | Regional Sales / Marketing | 6–12 Months |
+| 🔴 High | Validate refund data and investigate refund drivers by reviewing refund processing, data capture procedures, and reporting logic to determine whether the observed 733-day refund timeline reflects actual business processes, incomplete data, or system anomalies. Following validation, analyze refund reasons, customer segments, and purchase behaviors for MacBook Air and AirPods to identify opportunities to reduce refund-related revenue exposure.| Operations / Data Governance / Customer Experience | Immediate – 6 Months |
 
 
 
