@@ -90,10 +90,9 @@ North America and EMEA generated more than 80% of total revenue, while regional 
 ## Loyalty Program
 
 
- <img width="1405" height="660" alt="Screenshot (1245)" src="https://github.com/user-attachments/assets/befcdc11-c210-412e-a842-e8dd170868df" />
+<img width="1409" height="660" alt="Screenshot (1251)" src="https://github.com/user-attachments/assets/27c8cfdd-bd07-4867-9eaf-8adfe4756f36" />
 
-
-<img width="1409" height="660" alt="Screenshot (1251)" src="https://github.com/user-attachments/assets/3aeab018-831f-4a70-bc20-b71c2ed66ba4" />
+<img width="1330" height="795" alt="Screenshot (1246)" src="https://github.com/user-attachments/assets/c97fa057-bc79-4653-92f4-37cd3eed61b5" />
 
 
 The loyalty program transformed from a niche initiative into the company's largest revenue segment, driven primarily by rapid customer adoption and reinforced by steadily improving customer spending behavior. 
