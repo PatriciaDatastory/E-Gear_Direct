@@ -81,8 +81,7 @@ Product performance was driven by two distinct success models: high-volume produ
 
  <img width="1534" height="183" alt="image" src="https://github.com/user-attachments/assets/a9157793-efc7-4157-85c6-9d1c1c6c44fd" />
 
- <img width="1550" height="870" alt="image" src="https://github.com/user-attachments/assets/10d9b9d9-635d-4cb4-9676-d16dc7a5cfe8" />
-
+ <img width="1504" height="849" alt="image" src="https://github.com/user-attachments/assets/6ac74e67-a0fd-4ecf-bfcf-8b859a71f335" />
 
 
 
