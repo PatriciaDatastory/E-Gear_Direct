@@ -47,7 +47,7 @@ The company generated more than $28M in revenue across 108K orders with $260 AOV
 ## Sales Trends
 
 
-<img width="1504" height="922" alt="image" src="https://github.com/user-attachments/assets/ade101fb-ea99-47a3-b9f3-271413082915" />
+<img width="1532" height="873" alt="image" src="https://github.com/user-attachments/assets/f5aa8fdd-c2ae-4cf8-87df-6626806112a9" />
 
 
 
