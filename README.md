@@ -19,7 +19,8 @@ Analyze four years of transactional sales data to:
 # Executive Summary
 
 
-<img width="1423" height="752" alt="Screenshot (1239)" src="https://github.com/user-attachments/assets/a13d292d-85e7-4159-9f13-964d2075c050" />
+<img width="1566" height="842" alt="image" src="https://github.com/user-attachments/assets/d7f31732-1ee9-44c7-8ca6-be0e4c2228ee" />
+
 
 
 The company generated more than $28M in revenue across 108K orders with $260 AOV from 2019 to 2022. While pandemic-driven demand fueled record sales in 2020 and sustained strong performance in 2021, the business experienced a significant slowdown in 2022, highlighting the challenge of maintaining growth after extraordinary market conditions subsided. Understanding which products, regions, and customer segments drove performance throughout these shifts was a key objective of this analysis.
@@ -61,7 +62,8 @@ The company generated more than $28M in revenue across 108K orders with $260 AOV
 ## Product Performance
 
 
- <img width="1364" height="804" alt="Screenshot (1241)" src="https://github.com/user-attachments/assets/b881be32-74c9-4fce-88e4-6ce96928298e" />
+ <img width="1504" height="876" alt="image" src="https://github.com/user-attachments/assets/99637d2a-a536-4798-8025-fdb963ba7b23" />
+
 
 
 Product performance was driven by two distinct success models: high-volume products generated revenue through demand, while premium products generated revenue through higher average order values. The strongest performers effectively leveraged one or both of these advantages.
@@ -76,7 +78,11 @@ Product performance was driven by two distinct success models: high-volume produ
 <img width="1376" height="224" alt="Screenshot (1244)" src="https://github.com/user-attachments/assets/b2a5a6f9-ba70-41ae-9341-992ba963c3aa" />
 
 
- <img width="1417" height="802" alt="Screenshot (1243)" src="https://github.com/user-attachments/assets/e93c2a5e-dba0-456d-b450-30e13760cdb6" />
+ <img width="1534" height="183" alt="image" src="https://github.com/user-attachments/assets/a9157793-efc7-4157-85c6-9d1c1c6c44fd" />
+
+ <img width="1550" height="870" alt="image" src="https://github.com/user-attachments/assets/10d9b9d9-635d-4cb4-9676-d16dc7a5cfe8" />
+
+
 
 
 North America and EMEA generated more than 80% of total revenue, while regional revenue shares remained remarkably stable throughout both the pandemic-driven sales surge and subsequent downturn, suggesting that market shifts affected regions similarly rather than altering the company's geographic revenue mix.
@@ -90,9 +96,11 @@ North America and EMEA generated more than 80% of total revenue, while regional 
 ## Loyalty Program
 
 
-<img width="1409" height="660" alt="Screenshot (1251)" src="https://github.com/user-attachments/assets/27c8cfdd-bd07-4867-9eaf-8adfe4756f36" />
+<img width="1560" height="725" alt="image" src="https://github.com/user-attachments/assets/51f63c3c-3178-4e9c-81de-6a9316a3bdc9" />
 
-<img width="1330" height="795" alt="Screenshot (1246)" src="https://github.com/user-attachments/assets/c97fa057-bc79-4653-92f4-37cd3eed61b5" />
+
+<img width="1576" height="944" alt="image" src="https://github.com/user-attachments/assets/de7c9452-6ae1-4e2e-b737-64f83a61aff0" />
+
 
 
 The loyalty program transformed from a niche initiative into the company's largest revenue segment, driven primarily by rapid customer adoption and reinforced by steadily improving customer spending behavior. 
@@ -107,7 +115,8 @@ The loyalty program transformed from a niche initiative into the company's large
 
 <img width="1414" height="259" alt="Screenshot (1249)" src="https://github.com/user-attachments/assets/e454093d-e9ea-4728-8735-0d077a3b16b0" />
 
-<img width="843" height="668" alt="Screenshot (1250)" src="https://github.com/user-attachments/assets/8cab9f72-e4f9-4683-96b3-03d521587b9a" />
+<img width="1415" height="1115" alt="image" src="https://github.com/user-attachments/assets/32bfd58d-2934-4b42-8c16-3e5ac5821648" />
+
 
 
 Apple refund analysis revealed two distinct sources of refund-related revenue exposure. MacBook Air generated substantial refund losses due to its high transaction value, while AirPods produced comparable losses through significantly higher refund volumes. Additionally, refund timing remained remarkably consistent across products, averaging approximately two years from purchase to refund.
