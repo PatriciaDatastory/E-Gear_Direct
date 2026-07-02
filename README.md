@@ -47,7 +47,8 @@ The company generated more than $28M in revenue across 108K orders with $260 AOV
 ## Sales Trends
 
 
-<img width="1422" height="743" alt="Screenshot (1240)" src="https://github.com/user-attachments/assets/02e41c7c-4498-42f4-9f50-90bda55fe2fe" />
+<img width="1504" height="922" alt="image" src="https://github.com/user-attachments/assets/ade101fb-ea99-47a3-b9f3-271413082915" />
+
 
 
 *	**Pandemic surge:** Revenue grew 163% in 2020, peaking at $1.25M in December, driven by both higher order volume and increased average order value.  
